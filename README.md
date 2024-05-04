@@ -4,4 +4,4 @@ This repository contains some basic `nix` configuration files that allow you to 
 
 ## Usage
 
-Run `nix-shell`. You'll then have access to `ghc`, `ghci`, and `cabal`.
+Run `nix-shell`. You'll then have access to `ghc`, `ghci`, and `cabal`. The `haskell-language-server` will also be made executable and usable by LSP clients like Neovim.
